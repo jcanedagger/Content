@@ -6,7 +6,7 @@ excerpt: "Learn about the upcoming Touchdown tournament: Overcast Bowl!"
 
 ![event banner](ocb bowl pic.png)
 
-The OCC Events Team is excited to announce the upcoming competitive tournament: **Overcast Bowl!** This will be a one-day **5v5 Touchdown tournament**, taking place **Sunday, August 2, 2026 4:00 PM EDT**. This tournament will include a qualifiers stage, along with an invitational bracket to determine the winner.
+The OCC Events Team is excited to announce the upcoming competitive tournament: **Overcast Bowl!** This will be a one-day **5v5 Touchdown tournament**, taking place **Sunday, August 2, 2026 4:00 PM EDT**. This tournament will include a qualifiers stage, along with an invitational bracket to determine the winner!
 
 # Information
 
