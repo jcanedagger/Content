@@ -129,8 +129,6 @@ media:
   members:
     - username: Riuw
       id: 3de0af8e-b1e6-4de7-95dc-7b2ed9333d3f
-    - username: sqyid
-      id: c1d94f18-6ea3-495a-8d1b-7d9eaf393f64
     - username: Pugzy
       id: 75fd93dd-8e48-4698-81a2-97dae2ec5b5f
     - username: CincoDeMayo
@@ -170,8 +168,6 @@ moderators:
       id: 3a3f756e-7925-409a-be5e-e8c1694b3e2c
     - username: catzzy
       id: 1f7851a8-3a58-4d68-839f-939727a11080
-    - username: sqyid
-      id: c1d94f18-6ea3-495a-8d1b-7d9eaf393f64
     - username: JacketJack_
       id: 8c82e83e-4d7e-40d4-9eb7-3b3eaf08c048
     - username: Heirokos
