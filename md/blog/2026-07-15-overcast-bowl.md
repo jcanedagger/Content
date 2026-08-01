@@ -13,7 +13,7 @@ Hi everyone! We are very excited to announce our upcoming draft tournament: **Ov
 - The **tournament format** will be announced once we know the exact number of teams playing.
 - The amount of teams in the tournament will be determined by how many players show up.
 - This event will be based on the Touchdown gamemode.
-- Captains will be determined by [the highest ranked touchdown players](https://oc.tc/leaderboards?service=RANKED&seriesId=68&format=Touchdown&leaderboard=ranked).
+- Captains will be selected from the [highest-ranking players on the Touchdown leaderboard](https://oc.tc/leaderboards?service=RANKED&seriesId=68&format=Touchdown&leaderboard=ranked).
 - We will be using **Discord** for the tournament! Make sure to join [our server](https://discord.com/invite/OCTC), as your team will be required to use their assigned voice channels.
 - It is highly recommended you play **Ranked Touchdown** on the server to familiarize yourself with the gamemode. To play, join our server at `play.oc.tc` and type `/q join touchdown` in chat to join the **Tom Brady's World of Fun** queue!
 
