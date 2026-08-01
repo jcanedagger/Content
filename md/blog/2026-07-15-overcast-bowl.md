@@ -1,7 +1,7 @@
 ---
 title: "Overcast Bowl, The Upcoming Touchdown Tournament!"
 author: jcane
-excerpt: "Learn about the upcoming Touchdown tournament: Overcast Bowl!"
+excerpt: "Learn about the upcoming Touchdown Tournament: Overcast Bowl!"
 ---
 
 ![event banner](/img/blog/ocb_bowl_pic.png)
@@ -19,7 +19,12 @@ Hi everyone! We are very excited to announce our upcoming draft tournament: **Ov
 
 # Dates
 
-- **Tournament Date**: Saturday, August 8th, 2026 4:00 PM EDT
+- **Tournament Date**: Saturday, August 8th, 2026 3:00 PM EDT
+
+The event channel will be open for players to join from the above time.
+
+The channel will be locked and captains picked shortly afterwards ~30 minutes.
+
 
 # Registrations
 
