@@ -23,7 +23,7 @@ Hi everyone! We are very excited to announce our upcoming draft tournament: **Ov
 
 # Registrations
 
-- To be eligible to play, you must be in the Ranked Lobby channel on [our discord server](https://discord.com/invite/OCTC).
+- To be eligible to play, you must be in the Ranked Lobby channel on [our Discord server](https://discord.com/invite/OCTC).
 
 # Maps
 
