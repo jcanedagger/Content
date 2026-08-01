@@ -11,6 +11,7 @@ Hi everyone! We are very excited to announce our upcoming draft tournament: **Ov
 # Information
 
 - The **tournament format** will be announced once we know the exact number of teams playing.
+- The amount of teams in the tournament will be determined by how many players show up.
 - This event will be based on the Touchdown gamemode.
 - Captains will be determined by [the highest ranked touchdown players](https://oc.tc/leaderboards?service=RANKED&seriesId=68&format=Touchdown&leaderboard=ranked).
 - We will be using **Discord** for the tournament! Make sure to join [our server](https://discord.com/invite/OCTC), as your team will be required to use their assigned voice channels.
