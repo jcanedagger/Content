@@ -6,25 +6,23 @@ excerpt: "Learn about the upcoming Touchdown tournament: Overcast Bowl!"
 
 ![event banner](/img/blog/ocb_bowl_pic.png)
 
-Hi everyone! We are very excited to announce our 6th competitive tournament: **Overcast Bowl!** This will be a one-day **5v5 Touchdown competition**, taking place **Saturday, August 1st, 2026** at **4:00 PM EDT**.
+Hi everyone! We are very excited to announce our upcoming draft tournament: **Overcast Bowl!** This will be a one-day **5v5 Touchdown competition**, taking place **Saturday, August 8th, 2026** at **4:00 PM EDT**.
 
 # Information
 
 - The **tournament format** will be announced once we know the exact number of teams playing.
 - This event will be based on the Touchdown gamemode.
-- Teams must have a **minimum of 5** and a **maximum of 6 players**.
+- Captains will be determined by [the highest ranked touchdown players](https://oc.tc/leaderboards?service=RANKED&seriesId=68&format=Touchdown&leaderboard=ranked).
 - We will be using **Discord** for the tournament! Make sure to join [our server](https://discord.com/invite/OCTC), as your team will be required to use their assigned voice channels.
-- Looking for teammates, or want others to know you are looking for a team? Head to [#event-chat](https://discord.com/channels/86514356862320640/1525513657176293466) on Discord to find players!
 - It is highly recommended you play **Ranked Touchdown** on the server to familiarize yourself with the gamemode. To play, join our server at `play.oc.tc` and type `/q join touchdown` in chat to join the **Tom Brady's World of Fun** queue!
 
 # Dates
 
-- **Team registrations ends**: Wednesday, July 29, 2026 4:00 PM EDT
-- **Tournament Date**: Saturday, August 1st, 2026 4:00 PM EDT
+- **Tournament Date**: Saturday, August 8th, 2026 4:00 PM EDT
 
 # Registrations
 
-To register your team, fill out the [Team Signup form](https://forms.gle/Kkzuon2V3qGdWgwy5). Ideally, this should be done by the team captain.
+- To be eligible to play, you must be in the Ranked Lobby channel on [our discord server](https://discord.com/invite/OCTC).
 
 # Maps
 
